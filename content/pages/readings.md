@@ -58,11 +58,11 @@ Foot, Phillipa. "[Morality as a System of Hypothetical Imperatives](http://www.j
 
 Kratzer, Angelika. "Modality." In _Semantik / Semantics_. Edited by Arnim von Stechow and Dieter Wunderlich. Walter de Gruyter, 1991, pp. 639–50. ISBN: 9783110126969. \[Preview with [Google Books](http://books.google.com/books?id=1dboTG_4evYC&pg=PA639#v=onepage)\]
 
-Finlay, Stephen. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Error in the Error Theory](http://dx.doi.org/10.1080/00048400802001921)." _Australasian Journal of Philosophy_ 86, no. 3 (2008): 347–69.
+Finlay, Stephen. "[The Error in the Error Theory](http://dx.doi.org/10.1080/00048400802001921)." _Australasian Journal of Philosophy_ 86, no. 3 (2008): 347–69.
 
 ### Optional
 
-Swanson, Eric. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Modality in Language](http://dx.doi.org/10.1111/j.1747-9991.2008.00177.x)." _Philosophy Compass_ 3, no. 6 (2008): 1193–207.
+Swanson, Eric. "[Modality in Language](http://dx.doi.org/10.1111/j.1747-9991.2008.00177.x)." _Philosophy Compass_ 3, no. 6 (2008): 1193–207.
 
 Joyce, Richard. "[The Error in 'The Error in the Error Theory'](http://philpapers.org/rec/JOYTEI)." _Australasian Journal of Philosophy_ 89, no. 3 (2011): 519–34.
 
@@ -90,7 +90,7 @@ Charlow, Nate. "[What We Know and What To Do](http://dx.doi.org/10.1007/s11229-0
 
 ### Optional
 
-von Fintel, Kai. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Best We Can (Expect to) Get? Challenges to the Classic Semantics for Deontic Modals (PDF)](http://mit.edu/fintel/fintel-2012-apa-ought.pdf)," unpublished manuscript. \[Focus on pp. 1–3 and 22–30\]
+von Fintel, Kai. "[The Best We Can (Expect to) Get? Challenges to the Classic Semantics for Deontic Modals (PDF)](http://mit.edu/fintel/fintel-2012-apa-ought.pdf)," unpublished manuscript. \[Focus on pp. 1–3 and 22–30\]
 
 
 {{< tdclose >}}
@@ -162,7 +162,7 @@ Horgan, Terence, and Mark Timmons. "[Trouble for New Wave Moral Semantics: The '
 
 ### Optional
 
-Dowell, Janice. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Metaethical Insignificance of Moral Twin Earth." (PDF)](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780198784647.001.0001/acprof-9780198784647-chapter-1#:~:text=The%20Metaethical%20Insignificance%20of%20Moral%20Twin%20Earth,-Chapter%3A%20(p.&text=Linguists%20recognize%20facts%20about%20ordinary,about%20which%20uses%20are%20appropriate.&text=Many%20rivals%20to%20pure%2C%20Descriptivist,ability%20to%20accommodate%20these%20judgments.) In _Oxford Studies in Metaethics_. Edited by Russ Shafer-Landau. Oxford University Press, 2013. ISBN: 9780199678051.
+Dowell, Janice. ["The Metaethical Insignificance of Moral Twin Earth." (PDF)](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780198784647.001.0001/acprof-9780198784647-chapter-1#:~:text=The%20Metaethical%20Insignificance%20of%20Moral%20Twin%20Earth,-Chapter%3A%20(p.&text=Linguists%20recognize%20facts%20about%20ordinary,about%20which%20uses%20are%20appropriate.&text=Many%20rivals%20to%20pure%2C%20Descriptivist,ability%20to%20accommodate%20these%20judgments.) In _Oxford Studies in Metaethics_. Edited by Russ Shafer-Landau. Oxford University Press, 2013. ISBN: 9780199678051.
 
 Manley, David. "Moral Realism and Semantic Plasticity." (manuscript).
 
@@ -290,7 +290,7 @@ Blackburn, Simon. "Supervenience Revisted." In _Exercises in Analysis: Essays by
 
 Dreier, James. "[The Supervenience Argument Against Moral Realism](http://dx.doi.org/10.1111/j.2041-6962.1992.tb00636.x)." _Southern Journal of Philosophy_ 30, no. 3 (1992): 13–38.
 
-Schroeder, Mark. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Price of Supervenience (PDF)](https://static1.squarespace.com/static/55505fc8e4b032b4451e4a90/t/55ca37b9e4b055f9e33643bb/1439315897616/Schroeder_Price_of_Supervenience.pdf)." (Manuscript).
+Schroeder, Mark. "[The Price of Supervenience (PDF)](https://static1.squarespace.com/static/55505fc8e4b032b4451e4a90/t/55ca37b9e4b055f9e33643bb/1439315897616/Schroeder_Price_of_Supervenience.pdf)." (Manuscript).
 
 
 {{< tdclose >}}
